@@ -8,5 +8,4 @@ Makefile
 *.toc
 *.bbl
 *.blg
-*.pdf
 *.svg
